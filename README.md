@@ -18,7 +18,7 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 **Git e GitHub**  
 
 ## Sprints  
-[Sprint 1](Sprint%201)  
+[Sprint 1](/sprint1)  
 ## Desafio  
 
 
