@@ -16,3 +16,9 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 **Agile Culture**  
 **Linux para desenvolvedores**  
 **Git e GitHub**  
+
+## Sprints  
+  
+## Desafio  
+
+## Certificados
