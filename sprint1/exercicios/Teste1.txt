@@ -1,0 +1,11 @@
+1 - Qual comando lista arquivos e diretórios?
+R: ls
+
+2 - Qual comando limpa a tela do terminal?
+R: clean
+
+3 - O que é um diretório?
+R: "Podemos dizer que o diretório serve como uma pasta do Windows, podemos armazenar arquivos e outros diretórios"
+
+4 - Qual comando pode ler uma parte de um arquivo?
+R: cat
