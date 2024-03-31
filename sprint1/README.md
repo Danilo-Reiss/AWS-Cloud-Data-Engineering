@@ -1,5 +1,8 @@
-## Exercícios  
-
+## Exercícios 
+**Linux:**  [Teste 1](exercicios/Teste1.txt)  
+  
+**Git e Github:** 
+  
 ## Evidências  
 
 ## Certificados  
