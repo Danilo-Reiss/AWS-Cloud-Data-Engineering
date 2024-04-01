@@ -1,0 +1,2 @@
+Qual destes comandos cria um diretório?
+R: mkdir
