@@ -1,2 +1,11 @@
-Qual destes comandos cria um diretório?
+1 - Qual destes comandos cria um diretório?
 R: mkdir
+
+2 - Qual dos comandos abaixo remove arquivos?
+R: rm
+
+3 - Qual dos comandos abaixo remove apenas diretórios do sistema?
+R: rmdir
+
+4 - Qual dos comandos abaixo copia arquivos?
+R: cp
