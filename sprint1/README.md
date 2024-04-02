@@ -1,5 +1,5 @@
 ## Exercícios 
-**Linux:**  [Teste 1](exercicios/Teste1.txt) [Teste 2](exercicios/Teste2.txt)
+**Linux:**  [Teste 1](exercicios/Teste1.txt) [Teste 2](exercicios/Teste2.txt) [Teste 3](exercicios/Teste3.txt)
   
 **Git e Github:** 
   
