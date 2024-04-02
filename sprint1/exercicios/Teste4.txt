@@ -1,0 +1,8 @@
+1 - Permissão em um arquivo somente de leitura
+R: r - -
+
+2 - A letra que representa a escrita é:
+R: w
+
+3 - Permissão de escrita e leitura para todos, porém sem execução
+R: 666
