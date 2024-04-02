@@ -1,0 +1,8 @@
+1 - Como abrir um arquivo com o nano?
+R: nano arquivo
+
+2 - Como entrar no modo de edição de arquivo no vim?
+R: Apertar a tecla i
+
+3 - Como sair da edição sem salvar o arquivo no vim?
+R: :q!
