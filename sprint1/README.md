@@ -4,6 +4,7 @@
 **Git e Github:** 
   
 ## Evidências  
+[Execução de comandos no terminal Linux](evidencias)
 
 ## Certificados  
 [Data & Analytics - PB - AWS - Novo - 1/10](certificados/certificate1.jpg)  
