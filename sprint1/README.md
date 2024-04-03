@@ -7,7 +7,5 @@
 [Execução de comandos no terminal Linux](evidencias/Linux)
 
 ## Certificados  
-[Data & Analytics - PB - AWS - Novo - 1/10](certificados/certificate1.jpg)  
-[Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)](certificados/certificate2.jpg)
 
 
