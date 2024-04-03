@@ -6,6 +6,6 @@
 ## Evidências  
 
 ## Certificados  
-[Data & Analytics - PB - AWS - Novo - 1/10](certficate1.jpg)
+[Data & Analytics - PB - AWS - Novo - 1/10](certificate1.jpg)
 
 
