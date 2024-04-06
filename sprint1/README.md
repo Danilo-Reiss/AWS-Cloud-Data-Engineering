@@ -8,7 +8,8 @@
 
 ## Desafio  
 [Instruções](./desafio/README.md)  
-[Etapa 4.1](./desafio/etapa-4.1)  
+[Etapa 4.1](./desafio/etapa-4.1) 
+[Etapa 4.2](./screenshots/5-agendamento.png)
 [Screenshots](./desafio/screenshots)
 
 ## Certificados  
