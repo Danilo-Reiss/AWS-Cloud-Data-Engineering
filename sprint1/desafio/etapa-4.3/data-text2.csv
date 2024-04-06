@@ -1,0 +1,38 @@
+id,produto,quantidade,preço,data
+136,flauta doce,3,49.99,15/05/2023
+137,kit de limpeza para flauta doce,1,9.99,16/05/2023
+138,violino elétrico,1,699.00,17/05/2023
+139,encordoamento para violino elétrico,2,19.90,18/05/2023
+140,suporte para violino,1,29.99,19/05/2023
+141,bateria eletrônica,1,899.00,20/05/2023
+142,baqueta para bateria,2,12.50,21/05/2023
+143,fone de ouvido para bateria,1,29.99,22/05/2023
+144,banquinho para baterista,1,49.90,23/05/2023
+145,pandeiro,2,39.99,24/05/2023
+146,cuíca,1,79.00,25/05/2023
+147,reco-reco,3,14.99,26/05/2023
+148,tamborim,2,24.90,27/05/2023
+149,berimbau,1,149.00,28/05/2023
+150,cavaquinho,1,199.00,29/05/2023
+151,violão de aço,3,349.00,30/05/2023
+152,encordoamento para violão de aço,4,29.90,31/05/2023
+153,afinador para violão,2,19.99,01/06/2023
+154,pedal de efeito para violão,1,79.00,02/06/2023
+155,caixa de ritmos para violão,1,129.00,03/06/2023
+156,pedal de volume para violão,1,69.00,04/06/2023
+157,pedal de loop para violão,1,99.00,05/06/2023
+158,violão folk,2,499.00,06/06/2023
+159,violão clássico,1,299.00,07/06/2023
+160,encordoamento para violão clássico,3,19.90,08/06/2023
+161,estojo para violão,2,59.90,09/06/2023
+162,suporte para violão,3,24.99,10/06/2023
+163,amplificador para violão,1,199.00,11/06/2023
+164,microfone para violão,1,89.00,12/06/2023
+165,pedestal para microfone de violão,1,39.90,13/06/2023
+166,caixa de som para violão,1,149.00,14/06/2023
+167,cabo para violão,4,12.50,15/06/2023
+168,pedal de chorus para violão,1,79.00,16/06/2023
+169,pedal de delay para violão,1,99.00,17/06/2023
+170,pedal de reverb para violão,1,89.00,18/06/2023
+171,pedal de distorção para violão,1,109.00,19/06/2023
+172,pedal de equalização para violão,1,129.00,20/06/2023

@@ -1,0 +1,49 @@
+id,produto,quantidade,preço,data
+88,suporte para flauta,4,79.00,28/03/2023
+89,estojo para flauta,10,9999,29/03/2023
+90,saxofone,4,4359.00,30/03/2023
+91,suporte para saxofone,5,32.69,31/03/2023
+92,teclado musical casio,2,784.98,01/04/2023
+93,sintetizador de voz,3,324.12,02/04/2023
+94,controlador com cabo usb,4,124.00,03/04/2023
+95,caixa de som jbl,2,39.99,04/04/2023
+96,microfone sem fio shure,3,2000.00,05/04/2023
+97,pedestal para microfone,6,150.00,06/04/2023
+98,cabo para microfone,10,12.50,07/04/2023
+99,caixa acústica,8,789.00,08/04/2023
+100,mixer de áudio behringer,2,888.00,09/04/2023
+101,fone de ouvido profissional akg,3,300.00,10/04/2023
+102,violino,1,1500.00,11/04/2023
+103,violoncelo,1,2500.00,12/04/2023
+104,violão elétrico,3,799.00,13/04/2023
+105,cordas para violino,4,29.90,14/04/2023
+106,estante para partitura,2,49.00,15/04/2023
+107,metrônomo digital,1,19.99,16/04/2023
+108,pedal para violão,3,89.00,17/04/2023
+109,pedal para guitarra,5,129.00,18/04/2023
+110,pedal para baixo,4,99.00,19/04/2023
+111,amplificador de baixo,2,399.00,20/04/2023
+112,cabo para instrumento,8,15.00,21/04/2023
+113,piano digital,1,2500.00,22/04/2023
+114,banqueta para piano,1,79.90,23/04/2023
+115,fone de ouvido bluetooth,3,49.90,24/04/2023
+116,caixa de ritmos,2,199.00,25/04/2023
+117,interface de áudio,1,299.00,26/04/2023
+118,pedal de efeito,4,79.00,27/04/2023
+119,kit de limpeza para instrumentos musicais,6,19.99,28/04/2023
+120,encordoamento para violão,8,39.00,29/04/2023
+121,kit de microfones,3,199.00,30/04/2023
+122,pedal de expressão,2,69.00,01/05/2023
+123,estante para partitura,4,29.90,02/05/2023
+124,microfone condensador,2,129.00,03/05/2023
+125,amplificador para fone de ouvido,1,49.00,04/05/2023
+126,pedestal para caixa de som,3,24.90,05/05/2023
+127,amplificador para guitarra,1,299.00,06/05/2023
+128,pedal de volume,2,89.00,07/05/2023
+129,controlador MIDI,1,249.00,08/05/2023
+130,captador para violão,3,59.00,09/05/2023
+131,suporte para teclado,2,49.90,10/05/2023
+132,kit de limpeza para flauta,5,15.90,11/05/2023
+133,kit de limpeza para saxofone,4,19.90,12/05/2023
+134,kit de limpeza para piano,3,29.90,13/05/2023
+135,afinador para instrumentos de sopro,6,39.90,14/05/2023
