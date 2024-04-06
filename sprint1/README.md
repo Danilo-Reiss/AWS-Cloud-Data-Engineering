@@ -8,6 +8,8 @@
 
 ## Desafio  
 [Instruções](./desafio/README.md)  
+[Etapa 4.1](./desafio/etapa-4.1)  
+[Screenshots](./desafio/screenshots)
 
 ## Certificados  
 
