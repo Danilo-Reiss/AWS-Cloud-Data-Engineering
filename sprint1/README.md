@@ -4,7 +4,10 @@
 **Git e Github:** 
   
 ## Evidências  
-[Execução de comandos no terminal Linux](evidencias/Linux)
+[Execução de comandos no terminal Linux](evidencias/Linux)  
+
+## Desafio  
+[Instruções](./desafio/README.md)  
 
 ## Certificados  
 
