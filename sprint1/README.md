@@ -10,6 +10,7 @@
 [Instruções](./desafio/README.md)  
 [Etapa 4.1](./desafio/etapa-4.1)  
 [Etapa 4.2](./desafio/screenshots/5-agendamento.png)  
+[Etapa 4.3](./desafio/etapa-4.3)  
 [Screenshots](./desafio/screenshots)  
 
 ## Certificados  
