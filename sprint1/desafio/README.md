@@ -2,7 +2,8 @@
 <img src="./instructions/1.png" alt="picture" width="500" height="400"> <img src="./instructions/2.png" alt="picture" width="500" height="400">
 <img src="./instructions/3.png" alt="picture" width="500" height="400"> <img src="./instructions/4.png" alt="picture" width="500" height="400">
 
-## Etapas
+## Etapas  
+[Etapa 4.1](./etapa-4.1)  
 
 ## Screenshots
 [1 - Preparação](./screenshots/1-preparacao.png)  
