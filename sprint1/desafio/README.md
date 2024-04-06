@@ -4,6 +4,8 @@
 
 ## Etapas  
 [Etapa 4.1](./etapa-4.1)  
+[Etapa 4.2](./screenshots/5-agendamento.png)  
+[Etapa 4.3](./etapa-4.3)  
 
 ## Screenshots
 [1 - Preparação](./screenshots/1-preparacao.png)  
