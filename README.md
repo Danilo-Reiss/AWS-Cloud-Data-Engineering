@@ -18,6 +18,8 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
   
 **SQL para Análise de Dados [COMPLETO]**: Fundamentos de pgAdmin e PostgreSQL, comandos básicos de query, operadores, funções agregadas, joins, unions, subqueries, tratamento de dados e manipulação de tabelas.  
 
+**AWS Partner: Sales Accreditation (Business) [COMPLETO]**: Conceitos de Nuvem e AWS, modelos de implantação, AWS Marketplace, valor comercial da Nuvem, Cloud Value Framework, como lidar com a objeção à Nuvem, venda conjunta com a AWS.  
+
 ## Sprints  
 [Sprint 1](/sprint1)  
 [Sprint 2](/sprint2)  
