@@ -1,4 +1,5 @@
 ## Exercícios  
+**SQL para Análise de Dados:** [Exercícios de fixação](./exercicios/fixação)
   
 ## Evidências  
   
