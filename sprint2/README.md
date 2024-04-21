@@ -6,6 +6,9 @@
 [Print query referência p/ data export](./evidencias)
   
 ## Desafio  
+[Instruções](./desafio)  
+[Etapa 4.1](./desafio/etapa-4.1)  
+[Etapa 4.2](./desafio/etapa-4.2)  
    
 ## Certificados  
 <img src="./certificados/aws-course-completion.jpg" alt="certificate">  
