@@ -6,7 +6,8 @@
 [Etapa 4.1](./etapa-4.1)  
 [Etapa 4.2](./etapa-4.2)  
 
-
-
-
-
+## Modelos  
+**Relacional**  
+<img src="./etapa-4.1/modelo-relacional.png" alt="picture" width="600" height="500">  
+**Dimensional**  
+<img src="./etapa-4.2/modelo-dimensional.png" alt="picture" width="600" height="500">
