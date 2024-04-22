@@ -1,0 +1,11 @@
+1 - O que é um repositório?
+R: É onde armazenamos o código dos nossos projetos
+
+2 - Qual comando cria um repositório?
+R: git init
+
+3 - O que é GitHub?
+R: Um serviço web que podemos gerenciar os repositórios de Git
+
+4 - Qual comando é utilizado para verificar as alterações feitas no projeto?
+R: git status
