@@ -14,7 +14,7 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 
 **Linux para desenvolvedores [COMPLETO]**: Fundamentos do SO, principais comandos no terminal, gerenciamento de diretórios e arquivos, gerenciamento de pacotes e aplicativos, comandos de filtragem e busca de arquivos/diretórios, editores de texto (Vim e Nano), gerenciamento de usuários e grupos, gerenciamento de permissões, fundamentos e gerenciamento básico de redes, compactação e descompactação de arquivos (.tar e .zip).   
   
-**Git e GitHub**...  
+**Git e GitHub [COMPLETO]**: Fundamentos de Git, trabalho com branches, compartilhamento, atualização, análise, inspecão e administração de repositórios, práticas para commits, fundamentos Github e Markdown.
   
 **SQL para Análise de Dados [COMPLETO]**: Fundamentos de pgAdmin e PostgreSQL, comandos básicos de query, operadores, funções agregadas, joins, unions, subqueries, tratamento de dados e manipulação de tabelas.  
 
