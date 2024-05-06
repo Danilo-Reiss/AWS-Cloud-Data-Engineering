@@ -13,6 +13,8 @@
 [Fragmentos curso de Python](./evidencias)  
   
 ## Desafio  
+[Instruções](./desafio)  
+[Etapa 4.2](./desafio/etapa-4.2/desafio.ipynb)  
      
 ## Certificados  
  
