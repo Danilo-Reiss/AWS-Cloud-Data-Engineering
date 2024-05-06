@@ -12,17 +12,17 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
  
 ## Aprendendo...  
 
-**Linux para desenvolvedores [COMPLETO]**: Fundamentos do SO, principais comandos no terminal, gerenciamento de diretórios e arquivos, gerenciamento de pacotes e aplicativos, comandos de filtragem e busca de arquivos/diretórios, editores de texto (Vim e Nano), gerenciamento de usuários e grupos, gerenciamento de permissões, fundamentos e gerenciamento básico de redes, compactação e descompactação de arquivos (.tar e .zip).   
+* **Linux para desenvolvedores [COMPLETO]**: Fundamentos do SO, principais comandos no terminal, gerenciamento de diretórios e arquivos, gerenciamento de pacotes e aplicativos, comandos de filtragem e busca de arquivos/diretórios, editores de texto (Vim e Nano), gerenciamento de usuários e grupos, gerenciamento de permissões, fundamentos e gerenciamento básico de redes, compactação e descompactação de arquivos (.tar e .zip).   
   
-**Git e GitHub [COMPLETO]**: Fundamentos de Git, trabalho com branches, compartilhamento, atualização, análise, inspecão e administração de repositórios, práticas para commits, fundamentos Github e Markdown.
+* **Git e GitHub [COMPLETO]**: Fundamentos de Git, trabalho com branches, compartilhamento, atualização, análise, inspecão e administração de repositórios, práticas para commits, fundamentos Github e Markdown.
   
-**SQL para Análise de Dados [COMPLETO]**: Fundamentos de pgAdmin e PostgreSQL, comandos básicos de query, operadores, funções agregadas, joins, unions, subqueries, tratamento de dados e manipulação de tabelas.  
+* **SQL para Análise de Dados [COMPLETO]**: Fundamentos de pgAdmin e PostgreSQL, comandos básicos de query, operadores, funções agregadas, joins, unions, subqueries, tratamento de dados e manipulação de tabelas.  
 
-**AWS Partner: Sales Accreditation (Business) [COMPLETO]**: Conceitos de Nuvem e AWS, modelos de implantação, AWS Marketplace, valor comercial da Nuvem, Cloud Value Framework, como lidar com a objeção à Nuvem, venda conjunta com a AWS.  
+* **AWS Partner: Sales Accreditation (Business) [COMPLETO]**: Conceitos de Nuvem e AWS, modelos de implantação, AWS Marketplace, valor comercial da Nuvem, Cloud Value Framework, como lidar com a objeção à Nuvem, venda conjunta com a AWS.  
 
-**Python 3 [EM ANDAMENTO...]**: Fundamentos, estruturas de controle, manipulação de arquivos (parsing), comprehension, funções, pacotes, programação orientada a objetos, gerenciamento de pacotes, isolamento de ambientes, análise com bibliotecas Pandas e Matplotlib.  
+* **Python 3 [EM ANDAMENTO...]**: Fundamentos, estruturas de controle, manipulação de arquivos (parsing), comprehension, funções, pacotes, programação orientada a objetos, gerenciamento de pacotes, isolamento de ambientes, análise com bibliotecas Pandas e Matplotlib.  
 
-**AWS Partner: Cloud Economics [COMPLETO]**: Aspectos econômicos da Nuvem AWS, gerenciamento financeiro da Nuvem e Migration Portfolio Assesment (MPA)  
+* **AWS Partner: Cloud Economics [COMPLETO]**: Aspectos econômicos da Nuvem AWS, gerenciamento financeiro da Nuvem e Migration Portfolio Assesment (MPA)  
 
 ## Sprints  
 [Sprint 1](/sprint1)  
