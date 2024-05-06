@@ -1,6 +1,6 @@
 ## Exercícios  
 **Exercícios Python I**  
-[Exercícios de programação](./exercicios/python-1)  
+[Exercícios de programação](./exercicios/python-1/python-1.ipynb)  
   
 **Exercícios Python II**  
 [Etapa 1](./exercicios/python-2/script1.py)  
