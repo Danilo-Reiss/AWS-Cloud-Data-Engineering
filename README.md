@@ -8,7 +8,7 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 **Hobbies:** Andar com a minha cachorra, ler artigos e notícias de diferentes áreas do conhecimento, jogar games, ler quadrinhos/mangás e assistir séries/filmes de ficção científica.  
   
 **Soft skills:** Comunicação eficaz, pensamento crítico, inteligênia emocional, adaptabilidade, resiliência, trabalho em equipe.  
-**Hard skills:** Algoritmos, HTML, CSS, C, Python, Git e GitHub, VSCode, Dev-C++, Linux, Shell script, SQL (PostgreSQL e SQLite).
+**Hard skills:** Algoritmos, HTML, CSS, C, Python (Pandas e Matplotlib) , Git e GitHub, VSCode, Dev-C++, Linux, Shell script, SQL (PostgreSQL e SQLite).
  
 ## Aprendendo...  
 
@@ -19,6 +19,10 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 **SQL para Análise de Dados [COMPLETO]**: Fundamentos de pgAdmin e PostgreSQL, comandos básicos de query, operadores, funções agregadas, joins, unions, subqueries, tratamento de dados e manipulação de tabelas.  
 
 **AWS Partner: Sales Accreditation (Business) [COMPLETO]**: Conceitos de Nuvem e AWS, modelos de implantação, AWS Marketplace, valor comercial da Nuvem, Cloud Value Framework, como lidar com a objeção à Nuvem, venda conjunta com a AWS.  
+
+**Python 3 [EM ANDAMENTO...]**: Fundamentos, estruturas de controle, manipulação de arquivos (parsing), comprehension, funções, pacotes, programação orientada a objetos, gerenciamento de pacotes, isolamento de ambientes, análise com bibliotecas Pandas e Matplotlib.  
+
+**AWS Partner: Cloud Economics**: Aspectos econômicos da Nuvem AWS, gerenciamento financeiro da Nuvem e Migration Portfolio Assesment (MPA)  
 
 ## Sprints  
 [Sprint 1](/sprint1)  
