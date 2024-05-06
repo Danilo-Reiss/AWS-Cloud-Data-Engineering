@@ -22,7 +22,7 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 
 **Python 3 [EM ANDAMENTO...]**: Fundamentos, estruturas de controle, manipulação de arquivos (parsing), comprehension, funções, pacotes, programação orientada a objetos, gerenciamento de pacotes, isolamento de ambientes, análise com bibliotecas Pandas e Matplotlib.  
 
-**AWS Partner: Cloud Economics**: Aspectos econômicos da Nuvem AWS, gerenciamento financeiro da Nuvem e Migration Portfolio Assesment (MPA)  
+**AWS Partner: Cloud Economics [COMPLETO]**: Aspectos econômicos da Nuvem AWS, gerenciamento financeiro da Nuvem e Migration Portfolio Assesment (MPA)  
 
 ## Sprints  
 [Sprint 1](/sprint1)  
