@@ -20,9 +20,11 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 
 * **AWS Partner: Sales Accreditation (Business) [COMPLETO]**: Conceitos de Nuvem e AWS, modelos de implantação, AWS Marketplace, valor comercial da Nuvem, Cloud Value Framework, como lidar com a objeção à Nuvem, venda conjunta com a AWS.  
 
-* **Python 3 [EM ANDAMENTO...]**: Fundamentos, estruturas de controle, manipulação de arquivos (parsing), comprehension, funções, pacotes, programação orientada a objetos, gerenciamento de pacotes, isolamento de ambientes, análise com bibliotecas Pandas e Matplotlib.  
+* **Python 3 [COMPLETO]**: Fundamentos, estruturas de controle, manipulação de arquivos (parsing), comprehension, funções, pacotes, programação orientada a objetos, gerenciamento de pacotes, isolamento de ambientes, análise com bibliotecas Pandas e Matplotlib, programação funcional e estatística descritiva com Python.  
+  
+* **AWS Partner: Cloud Economics [COMPLETO]**: Aspectos econômicos da Nuvem AWS, gerenciamento financeiro da Nuvem e Migration Portfolio Assesment (MPA).
 
-* **AWS Partner: Cloud Economics [COMPLETO]**: Aspectos econômicos da Nuvem AWS, gerenciamento financeiro da Nuvem e Migration Portfolio Assesment (MPA)  
+* **Docker (Docker Swarm e Kubernetes) [COMPLETO]**: Containers e imagens, volumes, conexão de containers com Networks, YAML, Docker Compose, orquestração com Docker Swarm e Kubernetes.  
 
 ## Sprints  
 [Sprint 1](/sprint1)  
