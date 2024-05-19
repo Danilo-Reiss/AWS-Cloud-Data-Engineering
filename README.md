@@ -8,7 +8,7 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 **Hobbies:** Andar com a minha cachorra, ler artigos e notícias de diferentes áreas do conhecimento, jogar games, ler quadrinhos/mangás e assistir séries/filmes de ficção científica.  
   
 **Soft skills:** Comunicação eficaz, pensamento crítico, inteligênia emocional, adaptabilidade, resiliência, trabalho em equipe.  
-**Hard skills:** Algoritmos, HTML, CSS, C, Python (Pandas e Matplotlib) , Git e GitHub, VSCode, Dev-C++, Linux, Shell script, SQL (PostgreSQL e SQLite).
+**Hard skills:** Algoritmos, HTML, CSS, C, Python (Pandas e Matplotlib) , Git e GitHub, VSCode, Dev-C++, Linux, Shell script, SQL (PostgreSQL e SQLite), Docker (Docker Swarm e Kubernetes).
  
 ## Aprendendo...  
 
