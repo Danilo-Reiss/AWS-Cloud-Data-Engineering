@@ -29,7 +29,7 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 ## Sprints  
 [Sprint 1](/sprint1)  
 [Sprint 2](/sprint2)  
-[Sprint 3](/sprint3) 
+[Sprint 3](/sprint3)  
 [Sprint 4](/sprint4)  
 ## Desafio  
 
