@@ -31,7 +31,10 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 * **AWS Partner: Cloud Economics [COMPLETO]**: Aspectos econômicos da Nuvem AWS, gerenciamento financeiro da Nuvem e Migration Portfolio Assesment (MPA).
 
 * **Docker (Docker Swarm e Kubernetes) [COMPLETO]**: Containers e imagens, volumes, conexão de containers com Networks, YAML, Docker Compose, orquestração com Docker Swarm e Kubernetes.  
+
+* **AWS Technical Essentials [COMPLETO]**: Introdução à Amazon Web Services (regiões, AZs, IAM), computação da AWS (EC2, container, serverless), rede da AWS (VPC), armazenamento da AWS (EBS, S3), bancos de dados (RDS, DynamoDB), monitoramento, otimização e sem-servidor (CloudWatch, ELB, Auto-scaling).  
   
+* **AWS Partner: Accreditation (Technical) [COMPLETO]**: Introdução ao AWS Cloud Adoption Framework, à estratégias de migração e ao AWS Well-Architected Framework.
 ## Desafio  
 
 
