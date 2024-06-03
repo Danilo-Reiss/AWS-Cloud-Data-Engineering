@@ -15,6 +15,7 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 [Sprint 2](/sprint2)  
 [Sprint 3](/sprint3)  
 [Sprint 4](/sprint4)  
+[Sprint 5](/sprint5)  
 
 ## Aprendendo...  
 
