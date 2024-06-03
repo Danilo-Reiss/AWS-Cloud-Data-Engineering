@@ -2,7 +2,7 @@
 <img src="./instrucoes/1.png" alt="picture" width="500" height="400"> <img src="./instrucoes/2.png" alt="picture" width="500" height="400">
 <img src="./instrucoes/3.png" alt="picture" width="500" height="400">  
 # Explicando dataset e query
-* O dataset utilizado são os dados das tarifas de transporte aéreo dos passageiros domésticos no ano de 2023, tendo o mês de janeiro como referência;
+* O [dataset utilizado](https://dados.gov.br/dados/conjuntos-dados/voos-e-operaes-areas---tarifas-areas-domsticas) são os dados das tarifas de transporte aéreo dos passageiros domésticos no ano de 2023, tendo o mês de janeiro como referência;
 * Os atributos contidos no dataset são: **ANO** (2023), **MES** (1), **EMPRESA** (sigla companhia aérea), **ORIGEM** (código ICAO do aeroporto de origem), **DESTINO** (código ICAO do aeroporto de destino), **TARIFA** (valor da passagem) e **ASSENTOS** (quantidade assentos);
 * A query utilizada no desafio tem como propósito retornar a maior, a menor e a média do preço das tarifas nas viagens no aeroporto de Congonhas (código SBSP) com destino ao aeroporto Santos Dummont (código SBRJ). A query também retorna uma string caso o valor máximo da tarifa seja maior que R$ 3500,00, assim como a data e o horário da consulta;
 * A query atende aos seguintes requisitos do desafio (em uma consulta):
