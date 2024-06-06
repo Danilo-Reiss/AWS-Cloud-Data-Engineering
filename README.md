@@ -36,6 +36,8 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 * **AWS Technical Essentials [COMPLETO]**: Introdução à Amazon Web Services (regiões, AZs, IAM), computação da AWS (EC2, container, serverless), rede da AWS (VPC), armazenamento da AWS (EBS, S3), bancos de dados (RDS, DynamoDB), monitoramento, otimização e sem-servidor (CloudWatch, ELB, Auto-scaling).  
   
 * **AWS Partner: Accreditation (Technical) [COMPLETO]**: Introdução ao AWS Cloud Adoption Framework, à estratégias de migração e ao AWS Well-Architected Framework.
+  
+* **Exam Prep Standard Course: AWS Certified Cloud Practioner [COMPLETO]**: Conhecendo o exame AWS Certified Cloud Practitioner (CLF-C02), preparação para o exame: Conceitos de Nuvem, segurança e conformidade, tecnologia e serviços Nuvem, cobrança, preços e suporte.  
 ## Desafio  
 
 
