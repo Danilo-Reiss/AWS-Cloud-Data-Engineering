@@ -16,6 +16,7 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
 [Sprint 3](/sprint3)  
 [Sprint 4](/sprint4)  
 [Sprint 5](/sprint5)  
+[Sprint 6](/sprint6)  
 
 ## Aprendendo...  
 
@@ -39,5 +40,5 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC Zona Sul, 2º semestre.
   
 * **Exam Prep Standard Course: AWS Certified Cloud Practioner [COMPLETO]**: Conhecendo o exame AWS Certified Cloud Practitioner (CLF-C02), preparação para o exame: Conceitos de Nuvem, segurança e conformidade, tecnologia e serviços Nuvem, cobrança, preços e suporte.  
 ## Desafio  
-
+[Entrega 1](/sprint6/desafio/)  
 
