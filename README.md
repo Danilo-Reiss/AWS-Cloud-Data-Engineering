@@ -7,6 +7,7 @@ Este repositório foi utilizado para desenvolver as atividades e os desafios pro
 [Sprint 3](./sprint3)  
 [Sprint 4](./sprint4)  
 [Sprint 5](./sprint5)  
+[Sprint 6](./sprint6)  
 
 ## Stacks aprendidas durante o programa...  
 
