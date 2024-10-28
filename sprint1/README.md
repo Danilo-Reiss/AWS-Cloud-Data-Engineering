@@ -3,7 +3,7 @@
 **Git e Github:** [Teste 1](exercicios/Teste5.txt)
     
 ## Evidências  
-[Execução de comandos no terminal Linux](evidencias/Linux)  
+[Execução de comandos no terminal Linux](evidencias)  
 
 ## Desafio  
 [Instruções](./desafio/README.md)  
@@ -11,7 +11,3 @@
 [Etapa 4.2](./desafio/screenshots/5-agendamento.png)  
 [Etapa 4.3](./desafio/etapa-4.3)  
 [Screenshots](./desafio/screenshots)  
-
-## Certificados  
-
-

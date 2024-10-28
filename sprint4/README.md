@@ -10,8 +10,5 @@
 [Instruções](./desafio/)  
 [Etapa 1 e 2](./desafio/imagem1/)  
 [Etapa 3](./desafio/imagem2/)  
-  
-## Certificados   
-<img src="./certificados/aws-course-completion1.jpg" alt="certificate">  
-<img src="./certificados/aws-course-completion2.jpg" alt="certificate">  
+
 

@@ -15,6 +15,4 @@
 ## Desafio  
 [Instruções](./desafio)  
 [Etapa 4.2](./desafio/etapa-4.2/desafio.ipynb)  
-     
-## Certificados  
- <img src="./certificados/aws-course-completion.jpg" alt="certificate">  
+
