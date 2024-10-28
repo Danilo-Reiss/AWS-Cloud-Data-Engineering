@@ -2,11 +2,11 @@
 Este repositório foi utilizado para desenvolver as atividades e os desafios propostos em cada Sprint no Programa de Bolsas da Compass UOL na trilha AWS Cloud Data Engineering.  
    
 ## Sprints  
-[Sprint 1](/sprint1)  
-[Sprint 2](/sprint2)  
-[Sprint 3](/sprint3)  
-[Sprint 4](/sprint4)  
-[Sprint 5](/sprint5)  
+[Sprint 1](./sprint1)  
+[Sprint 2](./sprint2)  
+[Sprint 3](./sprint3)  
+[Sprint 4](./sprint4)  
+[Sprint 5](./sprint5)  
 
 ## Stacks aprendidas durante o programa...  
 
@@ -28,4 +28,5 @@ Este repositório foi utilizado para desenvolver as atividades e os desafios pro
 * **AWS Partner: Accreditation (Technical)**: Introdução ao AWS Cloud Adoption Framework, à estratégias de migração e ao AWS Well-Architected Framework.  
   
 * **Exam Prep Standard Course: AWS Certified Cloud Practioner**: Conhecendo o exame AWS Certified Cloud Practitioner (CLF-C02), preparação para o exame: Conceitos de Nuvem, segurança e conformidade, tecnologia e serviços Nuvem, cobrança, preços e suporte.  
-
+  
+### [Certificados AWS Skill Builder](./certificados_skill_builder)
